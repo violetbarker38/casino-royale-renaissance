@@ -1,0 +1,250 @@
+
+{
+  "casinos": [
+    {
+      "name": "Bellagio Resort & Casino",
+      "image": "https://images.unsplash.com/photo-1596813362035-3edaefcbbf83?q=80&w=1770&auto=format&fit=crop",
+      "flagIcon": "https://flagcdn.com/20x15/us.png",
+      "rating": 5,
+      "description": "Home to the iconic dancing fountains, this luxury resort offers a world-class gaming experience and fine dining.",
+      "fullDescription": "The Bellagio sets the standard for luxury on the Las Vegas Strip. Known for its elegant fountains, the resort features a 116,000-square-foot casino floor with over 2,300 slot machines and 150 table games. The property also houses world-class dining establishments from celebrity chefs, a fine art gallery, botanical gardens, and the mesmerizing Cirque du Soleil's 'O' show.",
+      "location": {
+        "city": "Las Vegas",
+        "country": "USA"
+      },
+      "features": {
+        "games": "2,300+ slots, 150+ table games, high-limit salon",
+        "restaurants": "5-star dining, celebrity chef restaurants",
+        "entertainment": "Cirque du Soleil 'O', Fountain show"
+      }
+    },
+    {
+      "name": "Marina Bay Sands",
+      "image": "https://images.unsplash.com/photo-1565967511849-76a60a516170?q=80&w=1771&auto=format&fit=crop",
+      "flagIcon": "https://flagcdn.com/20x15/sg.png",
+      "rating": 5,
+      "description": "Singapore's iconic integrated resort featuring the world's largest rooftop infinity pool and lavish casino.",
+      "fullDescription": "Marina Bay Sands is Singapore's landmark integrated resort that transformed the city's skyline. The complex includes one of the world's most profitable casinos with 600+ table games and 1,500+ slot machines. The SkyPark, with its 150-meter infinity pool, offers breathtaking views of the city. The resort also features luxury shopping, a museum, multiple celebrity chef restaurants, and the spectacular Spectra light and water show.",
+      "location": {
+        "city": "Singapore",
+        "country": "Singapore"
+      },
+      "features": {
+        "games": "600+ tables, 1,500+ slots, exclusive VIP salons",
+        "restaurants": "Celebrity chef concepts, fine dining",
+        "entertainment": "Spectra light show, ArtScience Museum"
+      }
+    },
+    {
+      "name": "Wynn Las Vegas",
+      "image": "https://images.unsplash.com/photo-1620255906694-c8b1c1e84a5f?q=80&w=1974&auto=format&fit=crop",
+      "flagIcon": "https://flagcdn.com/20x15/us.png",
+      "rating": 5,
+      "description": "An elegant resort offering a luxurious casino experience, signature restaurants, and spectacular shows.",
+      "fullDescription": "The Wynn Las Vegas is the epitome of sophistication and luxury on the Strip. Its 111,000 square foot casino features the latest slots and table games in an elegant, naturally-lit space. The resort is known for its attention to detail, from the lush landscaping to the fine art displays. Guests can enjoy award-winning restaurants, designer shopping, immersive nightclubs, and the mesmerizing Lake of Dreams show.",
+      "location": {
+        "city": "Las Vegas",
+        "country": "USA"
+      },
+      "features": {
+        "games": "1,800+ slots, 180+ table games, poker room",
+        "restaurants": "Award-winning dining collection",
+        "entertainment": "Lake of Dreams show, nightclubs"
+      }
+    },
+    {
+      "name": "Casino de Monte-Carlo",
+      "image": "https://images.unsplash.com/photo-1596483613845-1f3c642f8e9f?q=80&w=1770&auto=format&fit=crop",
+      "flagIcon": "https://flagcdn.com/20x15/mc.png",
+      "rating": 5,
+      "description": "Monaco's legendary belle époque casino, known for its opulent architecture and exclusive gaming rooms.",
+      "fullDescription": "The Casino de Monte-Carlo is a symbol of Monaco's elegant gambling tradition and architecture. Built in 1863, this belle époque masterpiece features ornate gaming rooms with frescoes, sculptures, and stunning chandeliers. The casino offers European games like Roulette, Trente et Quarante, Baccarat, and Blackjack, as well as slot machines. Made famous by James Bond films, it continues to attract high rollers and celebrities from around the globe.",
+      "location": {
+        "city": "Monte Carlo",
+        "country": "Monaco"
+      },
+      "features": {
+        "games": "European table games, slot machines, private salons",
+        "restaurants": "Le Train Bleu, Salon Rose",
+        "entertainment": "Opera house, exclusive events"
+      }
+    },
+    {
+      "name": "The Venetian Macao",
+      "image": "https://images.unsplash.com/photo-1651990421312-c35b5c1a911c?q=80&w=1771&auto=format&fit=crop",
+      "flagIcon": "https://flagcdn.com/20x15/mo.png",
+      "rating": 4,
+      "description": "The world's largest casino resort featuring a replica of Venice's canals and grand gaming floors.",
+      "fullDescription": "The Venetian Macao is the crown jewel of Macau's Cotai Strip and one of the world's largest casino resorts. The complex spans 10.5 million square feet with a massive 550,000 square foot casino floor featuring 3,400+ slot machines and 800+ gaming tables. The resort replicates Venice's architecture, complete with indoor canals and gondola rides. Visitors can enjoy 3,000 luxury suites, international dining options, high-end shopping, and various entertainment venues.",
+      "location": {
+        "city": "Macau",
+        "country": "Macau"
+      },
+      "features": {
+        "games": "3,400+ slots, 800+ gaming tables, VIP rooms",
+        "restaurants": "Over 50 dining options, international cuisine",
+        "entertainment": "Gondola rides, arena shows, theater"
+      }
+    },
+    {
+      "name": "Caesars Palace",
+      "image": "https://images.unsplash.com/photo-1554966687-b641cb5e7f6b?q=80&w=1771&auto=format&fit=crop",
+      "flagIcon": "https://flagcdn.com/20x15/us.png",
+      "rating": 4,
+      "description": "Legendary Las Vegas resort with Roman-inspired décor, expansive casino floor, and world-class entertainment.",
+      "fullDescription": "Caesars Palace has been a Las Vegas landmark since 1966, setting the standard for luxury with its Roman-inspired architecture and opulence. The 124,000 square foot casino offers over 1,500 slot machines, 150 table games, a dedicated poker room, and the high-energy sports betting at the Caesars Race & Sports Book. The resort is home to world-renowned restaurants from celebrity chefs, The Forum Shops luxury mall, the 4,300-seat Colosseum showroom featuring superstar residencies, and the Garden of the Gods pool complex.",
+      "location": {
+        "city": "Las Vegas",
+        "country": "USA"
+      },
+      "features": {
+        "games": "1,500+ slots, 150+ tables, Race & Sports Book",
+        "restaurants": "Celebrity chef restaurants, fine dining",
+        "entertainment": "The Colosseum, Omnia Nightclub"
+      }
+    },
+    {
+      "name": "Crown Melbourne",
+      "image": "https://images.unsplash.com/photo-1550275994-cdc89cd1948f?q=80&w=1770&auto=format&fit=crop",
+      "flagIcon": "https://flagcdn.com/20x15/au.png",
+      "rating": 4,
+      "description": "Australia's premier integrated resort featuring a vast casino, luxury shopping, and world-class dining.",
+      "fullDescription": "Crown Melbourne is Australia's largest casino complex, spanning the equivalent of two city blocks along the Yarra River. The gaming floor offers 2,500 slot machines and over 500 table games with dedicated areas for high rollers. The resort includes three luxury hotels, premium dining establishments, designer boutiques, nightclubs, and the Palladium ballroom. Its riverside location provides stunning views of Melbourne's skyline, while its Crown Towers hotel is consistently rated among Australia's best.",
+      "location": {
+        "city": "Melbourne",
+        "country": "Australia"
+      },
+      "features": {
+        "games": "2,500 slots, 500+ table games, VIP Mahogany Room",
+        "restaurants": "Premium dining collection, bars, and cafes",
+        "entertainment": "Theater performances, nightclubs, events"
+      }
+    },
+    {
+      "name": "MGM Grand Las Vegas",
+      "image": "https://images.unsplash.com/photo-1565343722940-47e426045c78?q=80&w=1770&auto=format&fit=crop",
+      "flagIcon": "https://flagcdn.com/20x15/us.png",
+      "rating": 4,
+      "description": "One of the largest hotels in the world with extensive gaming options and star-studded entertainment.",
+      "fullDescription": "The MGM Grand Las Vegas is a massive entertainment complex featuring one of the Strip's largest gaming floors at 171,500 square feet. The casino offers over 2,500 slot machines and 160 table games, plus a high-limit lounge and a substantial poker room. Beyond gaming, the resort is famous for its 6.5-acre pool complex, the KÀ Cirque du Soleil show, numerous restaurants ranging from casual to fine dining, and the MGM Grand Garden Arena which hosts major concerts, championship boxing, and sporting events.",
+      "location": {
+        "city": "Las Vegas",
+        "country": "USA"
+      },
+      "features": {
+        "games": "2,500+ slots, 160+ tables, major poker room",
+        "restaurants": "Celebrity chef concepts, diverse dining",
+        "entertainment": "KÀ by Cirque du Soleil, Grand Garden Arena"
+      }
+    }
+  ],
+  
+  "gallery": [
+    {
+      "url": "https://images.unsplash.com/photo-1606509036992-4399d5c5afe4?q=80&w=1700&auto=format&fit=crop",
+      "caption": "Luxury Casino Floor"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1566008885218-90abf9200ddb?q=80&w=1800&auto=format&fit=crop",
+      "caption": "High Stakes Poker Table"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1599499462686-3ed0badee8c3?q=80&w=1770&auto=format&fit=crop",
+      "caption": "Exclusive Roulette Room"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1528495612343-9ca9f4a9f67c?q=80&w=1750&auto=format&fit=crop",
+      "caption": "Luxury Hotel Suite"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1576602976047-174e57a47881?q=80&w=1770&auto=format&fit=crop",
+      "caption": "Gourmet Dining Experience"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=1770&auto=format&fit=crop",
+      "caption": "Scenic Resort Pool"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?q=80&w=1769&auto=format&fit=crop",
+      "caption": "Elegant Bar and Lounge"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1770&auto=format&fit=crop",
+      "caption": "Casino Performance Stage"
+    }
+  ],
+  
+  "events": [
+    {
+      "title": "Diamond High Roller Tournament",
+      "date": "2025-08-15T20:00:00",
+      "time": "8:00 PM",
+      "image": "https://images.unsplash.com/photo-1486556396467-d83d2b23514b?q=80&w=1770&auto=format&fit=crop",
+      "description": "Exclusive poker tournament with $1M guaranteed prize pool for VIP members.",
+      "fullDescription": "Join us for our most prestigious poker event of the year. The Diamond High Roller Tournament features a $1 million guaranteed prize pool, with a buy-in of $25,000. Limited to 100 elite players, this exclusive event includes luxury accommodations, gourmet dining throughout the tournament, and a VIP reception with celebrity guests. Players will compete over three days in our private Diamond Lounge with dedicated personal service."
+    },
+    {
+      "title": "New Year's Eve Gala",
+      "date": "2025-12-31T20:00:00",
+      "time": "8:00 PM",
+      "image": "https://images.unsplash.com/photo-1556035511-3168381ea4d4?q=80&w=1770&auto=format&fit=crop",
+      "description": "Ring in the New Year with an extravagant celebration featuring world-class entertainment.",
+      "fullDescription": "Our annual New Year's Eve Gala is the most anticipated event on our calendar. This year's celebration will feature a performance by a Grammy-winning artist, a six-course dinner from our acclaimed executive chef, premium open bar, and midnight champagne toast with spectacular fireworks display. VIP packages include exclusive table service, premium viewing areas, and special gaming promotions throughout the night."
+    },
+    {
+      "title": "Summer Poolside Concert Series",
+      "date": "2025-07-10T19:00:00",
+      "time": "7:00 PM",
+      "image": "https://images.unsplash.com/photo-1547623542-7e8a71e123fe?q=80&w=1770&auto=format&fit=crop",
+      "description": "Experience live music and entertainment by the beautiful resort pool every weekend this summer.",
+      "fullDescription": "Our Summer Poolside Concert Series brings world-class musical acts to our scenic pool area every weekend from June through August. This exclusive event for resort guests and VIP members features performances across multiple genres, specialty cocktails created for each event, cabana service, and after-parties at our rooftop lounge. The July 10th concert will feature an internationally acclaimed DJ and stunning visual effects."
+    },
+    {
+      "title": "Culinary Masters Weekend",
+      "date": "2025-09-20T18:00:00",
+      "time": "6:00 PM",
+      "image": "https://images.unsplash.com/photo-1563940564818-4ffd1e0f773b?q=80&w=1770&auto=format&fit=crop",
+      "description": "A gastronomic journey featuring five celebrated chefs creating exclusive tasting menus.",
+      "fullDescription": "Our annual Culinary Masters Weekend brings together five internationally renowned chefs for an unforgettable gastronomic experience. The weekend includes exclusive tasting menus, cooking demonstrations, wine pairings by master sommeliers, and a gala dinner where each chef presents their signature dish. VIP packages include meet-and-greets with the chefs, signed cookbooks, and priority reservations for all events throughout the weekend."
+    }
+  ],
+  
+  "testimonials": [
+    {
+      "name": "Jonathan Pierce",
+      "location": "New York, USA",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+      "rating": 5,
+      "text": "The VIP treatment I received was beyond exceptional. From the moment I arrived, the staff made me feel like royalty. The private gaming rooms are the best I've experienced anywhere in the world."
+    },
+    {
+      "name": "Sophia Martinez",
+      "location": "Madrid, Spain",
+      "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+      "rating": 5,
+      "text": "I've visited luxury casinos around the globe, but this resort sets a new standard. The attention to detail, impeccable service, and world-class dining experiences made my stay unforgettable."
+    },
+    {
+      "name": "Robert Chen",
+      "location": "Hong Kong",
+      "avatar": "https://randomuser.me/api/portraits/men/57.jpg",
+      "rating": 4,
+      "text": "As a regular high-stakes player, I appreciate the discretion and personalized service. The management team goes above and beyond to accommodate special requests, and the high-limit rooms offer unparalleled privacy."
+    },
+    {
+      "name": "Emma Williams",
+      "location": "London, UK",
+      "avatar": "https://randomuser.me/api/portraits/women/33.jpg",
+      "rating": 5,
+      "text": "From the spectacular suites to the exquisite restaurants, every aspect of my stay exceeded expectations. The casino floor is elegant and energetic without feeling overwhelming. I'm already planning my return visit!"
+    }
+  ],
+  
+  "spotlight": {
+    "cuisine": "https://images.unsplash.com/photo-1562403492-454d4b15d518?q=80&w=1974&auto=format&fit=crop",
+    "highStakes": "https://images.unsplash.com/photo-1596542519315-7f352387e2b3?q=80&w=1770&auto=format&fit=crop",
+    "nightlife": "https://images.unsplash.com/photo-1571204829887-3b8d69e2bc30?q=80&w=1770&auto=format&fit=crop",
+    "rooftop": "https://images.unsplash.com/photo-1536964310524-11f449e2829d?q=80&w=1771&auto=format&fit=crop",
+    "vipSignup": "https://images.unsplash.com/photo-1525957067591-2e046d2e7afd?q=80&w=1974&auto=format&fit=crop"
+  }
+}
