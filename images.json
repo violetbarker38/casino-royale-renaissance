@@ -3,7 +3,7 @@
   "casinos": [
     {
       "name": "Bellagio Resort & Casino",
-      "image": "https://images.unsplash.com/photo-1596813362035-3edaefcbbf83?q=80&w=1770&auto=format&fit=crop",
+      "image": "https://img2.10bestmedia.com/Images/Photos/406312/ARIA-Resort--Casino_54_990x660.jpg?auto=webp&width=3840&quality=75",
       "flagIcon": "https://flagcdn.com/20x15/us.png",
       "rating": 5,
       "description": "Home to the iconic dancing fountains, this luxury resort offers a world-class gaming experience and fine dining.",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Marina Bay Sands",
-      "image": "https://images.unsplash.com/photo-1565967511849-76a60a516170?q=80&w=1771&auto=format&fit=crop",
+      "image": "https://imgcap.capturetheatlas.com/wp-content/uploads/2025/01/paris-las-vegas-best-hotels-1024x682.jpg",
       "flagIcon": "https://flagcdn.com/20x15/sg.png",
       "rating": 5,
       "description": "Singapore's iconic integrated resort featuring the world's largest rooftop infinity pool and lavish casino.",
@@ -37,7 +37,7 @@
     },
     {
       "name": "Wynn Las Vegas",
-      "image": "https://images.unsplash.com/photo-1620255906694-c8b1c1e84a5f?q=80&w=1974&auto=format&fit=crop",
+      "image": "https://imgcap.capturetheatlas.com/wp-content/uploads/2021/06/wynn-best-casino-hotel-in-las-vegas.jpg",
       "flagIcon": "https://flagcdn.com/20x15/us.png",
       "rating": 5,
       "description": "An elegant resort offering a luxurious casino experience, signature restaurants, and spectacular shows.",
@@ -54,7 +54,7 @@
     },
     {
       "name": "Casino de Monte-Carlo",
-      "image": "https://images.unsplash.com/photo-1596483613845-1f3c642f8e9f?q=80&w=1770&auto=format&fit=crop",
+      "image": "https://hotelinteriordesigns.eu/wp-content/uploads/2015/01/The-best-casino-hotels-in-Caribbean-1.jpg",
       "flagIcon": "https://flagcdn.com/20x15/mc.png",
       "rating": 5,
       "description": "Monaco's legendary belle époque casino, known for its opulent architecture and exclusive gaming rooms.",
@@ -71,7 +71,7 @@
     },
     {
       "name": "The Venetian Macao",
-      "image": "https://images.unsplash.com/photo-1651990421312-c35b5c1a911c?q=80&w=1771&auto=format&fit=crop",
+      "image": "https://www.luxurylifestylemag.co.uk/wp-content/uploads/2019/06/PoolsSwimupbars.jpg",
       "flagIcon": "https://flagcdn.com/20x15/mo.png",
       "rating": 4,
       "description": "The world's largest casino resort featuring a replica of Venice's canals and grand gaming floors.",
@@ -88,7 +88,7 @@
     },
     {
       "name": "Caesars Palace",
-      "image": "https://images.unsplash.com/photo-1554966687-b641cb5e7f6b?q=80&w=1771&auto=format&fit=crop",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/75/a8/b0/thunder-valley-casino.jpg?w=1200&h=-1&s=1",
       "flagIcon": "https://flagcdn.com/20x15/us.png",
       "rating": 4,
       "description": "Legendary Las Vegas resort with Roman-inspired décor, expansive casino floor, and world-class entertainment.",
@@ -105,7 +105,7 @@
     },
     {
       "name": "Crown Melbourne",
-      "image": "https://images.unsplash.com/photo-1550275994-cdc89cd1948f?q=80&w=1770&auto=format&fit=crop",
+      "image": "https://www.hotel-chisinau.com/data/Photos/700x500w/16298/1629898/1629898827.JPEG",
       "flagIcon": "https://flagcdn.com/20x15/au.png",
       "rating": 4,
       "description": "Australia's premier integrated resort featuring a vast casino, luxury shopping, and world-class dining.",
@@ -122,7 +122,7 @@
     },
     {
       "name": "MGM Grand Las Vegas",
-      "image": "https://images.unsplash.com/photo-1565343722940-47e426045c78?q=80&w=1770&auto=format&fit=crop",
+      "image": "https://bloximages.newyork1.vip.townnews.com/gmtoday.com/content/tncms/assets/v3/editorial/f/37/f37d341e-7436-11ef-99ab-e78b430161e4/66e83ee3605a4.image.jpg?resize=734%2C500",
       "flagIcon": "https://flagcdn.com/20x15/us.png",
       "rating": 4,
       "description": "One of the largest hotels in the world with extensive gaming options and star-studded entertainment.",
@@ -141,35 +141,35 @@
   
   "gallery": [
     {
-      "url": "https://images.unsplash.com/photo-1606509036992-4399d5c5afe4?q=80&w=1700&auto=format&fit=crop",
+      "url": "https://www.imjustagirl16.co.uk/wp-content/uploads/2022/04/Bellagio-hotel-1440x960.jpg",
       "caption": "Luxury Casino Floor"
     },
     {
-      "url": "https://images.unsplash.com/photo-1566008885218-90abf9200ddb?q=80&w=1800&auto=format&fit=crop",
+      "url": "https://img1.10bestmedia.com/Images/Photos/415654/Mount-Airy-Casino-Resort_54_990x660.jpg?auto=webp&width=3840&quality=75",
       "caption": "High Stakes Poker Table"
     },
     {
-      "url": "https://images.unsplash.com/photo-1599499462686-3ed0badee8c3?q=80&w=1770&auto=format&fit=crop",
+      "url": "https://essentialhome.eu/inspirations/wp-content/uploads/2017/11/Meet-the-Top-Casino-Hotels-in-the-%E2%80%98Sin-City%E2%80%99-9.jpg",
       "caption": "Exclusive Roulette Room"
     },
     {
-      "url": "https://images.unsplash.com/photo-1528495612343-9ca9f4a9f67c?q=80&w=1750&auto=format&fit=crop",
+      "url": "https://vegasnews.com/wp-content/uploads/2024/09/las-vegas-takes-two-spots-in-list-of-best-casino-hotels-in-the-us.jpeg",
       "caption": "Luxury Hotel Suite"
     },
     {
-      "url": "https://images.unsplash.com/photo-1576602976047-174e57a47881?q=80&w=1770&auto=format&fit=crop",
+      "url": "https://noraridge.com/wp-content/uploads/2024/12/noraridge-com_adcf8c5-scaled.jpg",
       "caption": "Gourmet Dining Experience"
     },
     {
-      "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=1770&auto=format&fit=crop",
+      "url": "https://img1.10bestmedia.com/Images/Photos/406433/Beau-Rivage-Resort--Casino_54_990x660.jpg?auto=webp&width=3840&quality=75",
       "caption": "Scenic Resort Pool"
     },
     {
-      "url": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?q=80&w=1769&auto=format&fit=crop",
+      "url": "https://www.northjersey.com/gcdn/presto/2021/04/06/PDTF/487914b2-9378-44d4-82ca-db750a34639e-OCR_Evening-Exterior.jpg?crop=2399,1350,x0,y548&width=660&height=371&format=pjpg&auto=webp",
       "caption": "Elegant Bar and Lounge"
     },
     {
-      "url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1770&auto=format&fit=crop",
+      "url": "https://travel.usnews.com/dims4/USNEWS/93317fc/2147483647/resize/800x600%5E%3E/crop/800x600/quality/85/?url=https%3A%2F%2Fimages.trvl-media.com%2Flodging%2F1000000%2F200000%2F198300%2F198225%2Fc414ff00_z.jpg",
       "caption": "Casino Performance Stage"
     }
   ],
@@ -179,7 +179,7 @@
       "title": "Diamond High Roller Tournament",
       "date": "2025-08-15T20:00:00",
       "time": "8:00 PM",
-      "image": "https://images.unsplash.com/photo-1486556396467-d83d2b23514b?q=80&w=1770&auto=format&fit=crop",
+      "image": "https://hotelinteriordesigns.eu/wp-content/uploads/2015/01/Top-10-casino-hotels-worldwide-5.jpg",
       "description": "Exclusive poker tournament with $1M guaranteed prize pool for VIP members.",
       "fullDescription": "Join us for our most prestigious poker event of the year. The Diamond High Roller Tournament features a $1 million guaranteed prize pool, with a buy-in of $25,000. Limited to 100 elite players, this exclusive event includes luxury accommodations, gourmet dining throughout the tournament, and a VIP reception with celebrity guests. Players will compete over three days in our private Diamond Lounge with dedicated personal service."
     },
@@ -187,7 +187,7 @@
       "title": "New Year's Eve Gala",
       "date": "2025-12-31T20:00:00",
       "time": "8:00 PM",
-      "image": "https://images.unsplash.com/photo-1556035511-3168381ea4d4?q=80&w=1770&auto=format&fit=crop",
+      "image": "https://hitorontoblooryorkville.ca/media/photo-o/06/f4/d3/b2/fallsview-casino-resort.jpg",
       "description": "Ring in the New Year with an extravagant celebration featuring world-class entertainment.",
       "fullDescription": "Our annual New Year's Eve Gala is the most anticipated event on our calendar. This year's celebration will feature a performance by a Grammy-winning artist, a six-course dinner from our acclaimed executive chef, premium open bar, and midnight champagne toast with spectacular fireworks display. VIP packages include exclusive table service, premium viewing areas, and special gaming promotions throughout the night."
     },
@@ -195,7 +195,7 @@
       "title": "Summer Poolside Concert Series",
       "date": "2025-07-10T19:00:00",
       "time": "7:00 PM",
-      "image": "https://images.unsplash.com/photo-1547623542-7e8a71e123fe?q=80&w=1770&auto=format&fit=crop",
+      "image": "https://hotelinteriordesigns.eu/wp-content/uploads/2015/01/Top-10-casino-hotels-worldwide-10.jpg",
       "description": "Experience live music and entertainment by the beautiful resort pool every weekend this summer.",
       "fullDescription": "Our Summer Poolside Concert Series brings world-class musical acts to our scenic pool area every weekend from June through August. This exclusive event for resort guests and VIP members features performances across multiple genres, specialty cocktails created for each event, cabana service, and after-parties at our rooftop lounge. The July 10th concert will feature an internationally acclaimed DJ and stunning visual effects."
     },
@@ -203,7 +203,7 @@
       "title": "Culinary Masters Weekend",
       "date": "2025-09-20T18:00:00",
       "time": "6:00 PM",
-      "image": "https://images.unsplash.com/photo-1563940564818-4ffd1e0f773b?q=80&w=1770&auto=format&fit=crop",
+      "image": "https://imgcap.capturetheatlas.com/wp-content/uploads/2025/01/flamingo-resort-las-vegas-strip-hotels.jpg",
       "description": "A gastronomic journey featuring five celebrated chefs creating exclusive tasting menus.",
       "fullDescription": "Our annual Culinary Masters Weekend brings together five internationally renowned chefs for an unforgettable gastronomic experience. The weekend includes exclusive tasting menus, cooking demonstrations, wine pairings by master sommeliers, and a gala dinner where each chef presents their signature dish. VIP packages include meet-and-greets with the chefs, signed cookbooks, and priority reservations for all events throughout the weekend."
     }
